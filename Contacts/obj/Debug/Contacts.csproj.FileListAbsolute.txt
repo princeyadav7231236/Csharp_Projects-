@@ -1,0 +1,16 @@
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Database1.mdf
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Database1_log.ldf
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.exe.manifest
+C:\Users\Bansh\Desktop\Programming languages\C# codes\Contacts\Contacts\obj\Debug\Contacts.application
